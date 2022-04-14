@@ -16,7 +16,7 @@
         android:layout_marginTop="20dp"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="Original Text"
+        android:text="@string/original_text_label"
         android:textSize="38dp" />
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Placeholder"
+        android:text="..."
         android:textSize="28dp" />
 
     <Space
@@ -38,7 +38,7 @@
         android:layout_marginTop="20dp"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="Translated Text"
+        android:text="@string/translated_text_label"
         android:textSize="38dp" />
 
     <TextView

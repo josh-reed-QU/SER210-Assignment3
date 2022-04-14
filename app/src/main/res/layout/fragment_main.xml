@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="16dp"
-        android:text="Translate"
+        android:text="@string/app_title"
         android:textSize="48dp" />
 
     <Space
@@ -37,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Translate To:"
+        android:text="@string/spinner_label"
         android:textSize="20dp" />
 
     <Space
@@ -61,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:hint="   Enter Text   "
+        android:hint="@string/editText_hint"
         android:textSize="28dp"/>
 
     <Space
@@ -74,7 +74,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="Translate"
+        android:text="@string/translate_button_label"
         android:textSize="30dp" />
 
 </LinearLayout>

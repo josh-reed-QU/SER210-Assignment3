@@ -17,5 +17,12 @@
         <item>Grey</item>
     </string-array>
 
+    <string name="app_title">Translate</string>
+    <string name="translate_button_label">Translate</string>
+    <string name="editText_hint">Enter Text</string>
+    <string name="original_text_label">Original Text</string>
+    <string name="translated_text_label">Translated Text</string>
+    <string name="spinner_label">Translate to:</string>
+
 
 </resources>

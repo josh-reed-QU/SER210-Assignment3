@@ -17,4 +17,13 @@
         <item>Azul</item>
         <item>Gris</item>
     </string-array>
+
+    <string name="app_title">Traducir</string>
+    <string name="translate_button_label">Traducir</string>
+    <string name="editText_hint">Ingrese Texto</string>
+    <string name="original_text_label">Texto Original</string>
+    <string name="translated_text_label">Texto Traducido</string>
+    <string name="spinner_label">Traducir a:</string>
+
+
 </resources>
